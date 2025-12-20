@@ -27,7 +27,7 @@ ALPACA_BASE_URL = os.getenv("ALPACA_BASE_URL", "https://paper-api.alpaca.markets
 # =============================================================================
 # EMAIL CONFIGURATION
 # =============================================================================
-EMAIL_ADDRESS = "nicholascronnelly@icloud.com"
+EMAIL_ADDRESS = "example@icloud.com"
 # For sending emails, you'll need to configure SMTP settings:
 SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.mail.me.com")  # iCloud SMTP
 SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
