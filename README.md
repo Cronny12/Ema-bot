@@ -271,3 +271,13 @@ To switch to live trading:
 ## Disclaimer
 
 This software is for educational purposes only. Trading involves substantial risk of loss. Past performance is not indicative of future results. Always paper trade and backtest extensively before risking real capital.
+
+
+
+I changed these:
+# Universe selection criteria
+UNIVERSE_MIN_ADV = 5_000_000  # $200M ADV for universe
+UNIVERSE_MIN_PRICE = 10.0       # $10 minimum price
+UNIVERSE_MAX_SPREAD_BPS = 30     # 30 bps max spread for universe
+
+As I am using the free Alpaca data and this allows for more stocks to enter the universe
