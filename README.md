@@ -276,8 +276,9 @@ This software is for educational purposes only. Trading involves substantial ris
 
 I changed these:
 # Universe selection criteria
-UNIVERSE_MIN_ADV = 5_000_000  # $200M ADV for universe
+UNIVERSE_MIN_ADV = 5_000_000  # $5M ADV for universe
 UNIVERSE_MIN_PRICE = 10.0       # $10 minimum price
 UNIVERSE_MAX_SPREAD_BPS = 30     # 30 bps max spread for universe
 
+!as previously $200M ADV and 10bps.
 As I am using the free Alpaca data and this allows for more stocks to enter the universe
