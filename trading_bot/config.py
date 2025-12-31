@@ -106,12 +106,12 @@ DONT_CHASE_ATR_MULTIPLIER = 0.75  # Entry-to-EMA21 distance <= 0.75× ATR
 # =============================================================================
 MAX_SPREAD_BPS = 10          # Max median spread in basis points
 MIN_ADV_DOLLARS = 50_000_000  # Minimum average daily volume in dollars
-MIN_PRICE = 5.0              # Minimum stock price
+MIN_PRICE = 10.0              # Minimum stock price
 
 # Universe selection criteria
-UNIVERSE_MIN_ADV = 200_000_000  # $200M ADV for universe
+UNIVERSE_MIN_ADV = 50_000_000  # $50M ADV for universe
 UNIVERSE_MIN_PRICE = 10.0       # $10 minimum price
-UNIVERSE_MAX_SPREAD_BPS = 5     # 5 bps max spread for universe
+UNIVERSE_MAX_SPREAD_BPS = 10     # 12 bps max spread for universe
 
 # =============================================================================
 # MARKET BREADTH FILTER (SPY)
