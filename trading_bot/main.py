@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# command to activate this: cd trading_bot
+# then run: python3 main.py
+
 """
 5-Minute EMA Crossover Trading Bot
 ==================================

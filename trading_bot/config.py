@@ -17,8 +17,8 @@ load_dotenv()
 # Get your keys from: https://app.alpaca.markets/paper/dashboard/overview
 # For paper trading, use the paper trading keys (not live!)
 
-ALPACA_API_KEY = os.getenv("ALPACA_API_KEY", "PKXXXXXXXXXXXXXXXXXX")  # <-- REPLACE WITH YOUR API KEY
-ALPACA_SECRET_KEY = os.getenv("ALPACA_SECRET_KEY", "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")  # <-- REPLACE WITH YOUR SECRET KEY
+ALPACA_API_KEY = os.getenv("ALPACA_API_KEY", "PKHNPXAZSEAXQKHGQIBZFJKVHR")  # <-- REPLACE WITH YOUR API KEY
+ALPACA_SECRET_KEY = os.getenv("ALPACA_SECRET_KEY", "7y6m9TwziG42djYRQa8iXGCsHLxjWmcMafbEWwWNKuap")  # <-- REPLACE WITH YOUR SECRET KEY
 ALPACA_BASE_URL = os.getenv("ALPACA_BASE_URL", "https://paper-api.alpaca.markets")  # Paper trading URL
 
 # For LIVE trading (use with caution!):
@@ -111,7 +111,7 @@ MIN_PRICE = 10.0              # Minimum stock price
 # Universe selection criteria
 UNIVERSE_MIN_ADV = 50_000_000  # $50M ADV for universe
 UNIVERSE_MIN_PRICE = 10.0       # $10 minimum price
-UNIVERSE_MAX_SPREAD_BPS = 10     # 12 bps max spread for universe
+UNIVERSE_MAX_SPREAD_BPS = 12     # 12 bps max spread for universe
 
 # =============================================================================
 # MARKET BREADTH FILTER (SPY)

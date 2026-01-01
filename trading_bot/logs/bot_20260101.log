@@ -1,0 +1,16 @@
+2026-01-01 17:52:02 | INFO     | __main__ | ============================================================
+2026-01-01 17:52:02 | INFO     | __main__ | 5-MINUTE EMA CROSSOVER BOT - STARTING
+2026-01-01 17:52:02 | INFO     | __main__ | ============================================================
+2026-01-01 17:52:02 | INFO     | __main__ | Paper Trading: https://paper-api.alpaca.markets
+2026-01-01 17:52:02 | INFO     | __main__ | Timezone: Europe/Dublin
+2026-01-01 17:52:02 | INFO     | __main__ | Market Hours: 14:30:00 - 21:00:00
+2026-01-01 17:52:02 | INFO     | __main__ | Entry Window: 14:35:00 - 20:30:00
+2026-01-01 17:52:02 | INFO     | __main__ | ============================================================
+2026-01-01 17:52:02 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2026-01-01 17:52:02 | INFO     | state_manager | State loaded from file
+2026-01-01 17:52:02 | INFO     | trading_engine | Initializing trading session...
+2026-01-01 17:52:02 | INFO     | state_manager | State reset for new session
+2026-01-01 17:52:03 | INFO     | trading_engine | Account equity: $97,116.68
+2026-01-01 17:52:03 | INFO     | trading_engine | Session initialized successfully
+2026-01-01 17:52:03 | INFO     | __main__ | Scheduler started - running every 5 minutes during market hours
+2026-01-01 17:52:03 | INFO     | __main__ | Press Ctrl+C to stop

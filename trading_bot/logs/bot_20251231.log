@@ -1,0 +1,191 @@
+2025-12-31 17:06:34 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:06:34 | INFO     | __main__ | ============================================================
+2025-12-31 17:06:34 | INFO     | __main__ | RUNNING TEST ITERATION
+2025-12-31 17:06:34 | INFO     | __main__ | ============================================================
+2025-12-31 17:06:34 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:06:34 | INFO     | state_manager | State reset for new session
+2025-12-31 17:06:35 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:06:35 | INFO     | trading_engine | Updating trading universe...
+2025-12-31 17:06:35 | INFO     | data_manager | Building trading universe...
+2025-12-31 17:06:35 | ERROR    | data_manager | Error fetching bars for AAPL: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:35 | ERROR    | data_manager | Error fetching bars for AAPL: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:36 | ERROR    | data_manager | Error fetching bars for MSFT: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:36 | ERROR    | data_manager | Error fetching bars for MSFT: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:36 | ERROR    | data_manager | Error fetching bars for GOOGL: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:36 | ERROR    | data_manager | Error fetching bars for GOOGL: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:36 | ERROR    | data_manager | Error fetching bars for AMZN: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:36 | ERROR    | data_manager | Error fetching bars for AMZN: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:36 | ERROR    | data_manager | Error fetching bars for NVDA: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:37 | ERROR    | data_manager | Error fetching bars for NVDA: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:37 | ERROR    | data_manager | Error fetching bars for META: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:37 | ERROR    | data_manager | Error fetching bars for META: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:37 | ERROR    | data_manager | Error fetching bars for TSLA: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:37 | ERROR    | data_manager | Error fetching bars for TSLA: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:37 | ERROR    | data_manager | Error fetching bars for BRK.B: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:38 | ERROR    | data_manager | Error fetching bars for BRK.B: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:38 | ERROR    | data_manager | Error fetching bars for JPM: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:38 | ERROR    | data_manager | Error fetching bars for JPM: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:38 | ERROR    | data_manager | Error fetching bars for V: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:38 | ERROR    | data_manager | Error fetching bars for V: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:38 | ERROR    | data_manager | Error fetching bars for UNH: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:39 | ERROR    | data_manager | Error fetching bars for UNH: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:39 | ERROR    | data_manager | Error fetching bars for XOM: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:39 | ERROR    | data_manager | Error fetching bars for XOM: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:39 | ERROR    | data_manager | Error fetching bars for JNJ: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:39 | ERROR    | data_manager | Error fetching bars for JNJ: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:39 | ERROR    | data_manager | Error fetching bars for WMT: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:40 | ERROR    | data_manager | Error fetching bars for WMT: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:40 | ERROR    | data_manager | Error fetching bars for MA: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:40 | ERROR    | data_manager | Error fetching bars for MA: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:40 | ERROR    | data_manager | Error fetching bars for PG: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:40 | ERROR    | data_manager | Error fetching bars for PG: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:40 | ERROR    | data_manager | Error fetching bars for HD: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:41 | ERROR    | data_manager | Error fetching bars for HD: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:41 | ERROR    | data_manager | Error fetching bars for CVX: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:41 | ERROR    | data_manager | Error fetching bars for CVX: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:41 | ERROR    | data_manager | Error fetching bars for MRK: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:41 | ERROR    | data_manager | Error fetching bars for MRK: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:41 | ERROR    | data_manager | Error fetching bars for ABBV: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:42 | ERROR    | data_manager | Error fetching bars for ABBV: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:42 | INFO     | data_manager | Universe built with 0 symbols: []
+2025-12-31 17:06:42 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:06:42 | ERROR    | data_manager | Error fetching bars for VIXY: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:42 | ERROR    | data_manager | Error fetching bars for SPY: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:42 | ERROR    | data_manager | Error fetching bars for SPY: {"message":"subscription does not permit querying recent SIP data"}
+
+2025-12-31 17:06:42 | WARNING  | trading_engine | No SPY data available
+2025-12-31 17:06:42 | INFO     | __main__ | Test iteration complete
+2025-12-31 17:10:03 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:10:03 | INFO     | state_manager | State loaded from file
+2025-12-31 17:10:03 | INFO     | __main__ | ============================================================
+2025-12-31 17:10:03 | INFO     | __main__ | RUNNING TEST ITERATION
+2025-12-31 17:10:03 | INFO     | __main__ | ============================================================
+2025-12-31 17:10:03 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:10:03 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:10:03 | INFO     | trading_engine | Updating trading universe...
+2025-12-31 17:10:03 | INFO     | data_manager | Building trading universe...
+2025-12-31 17:10:11 | INFO     | data_manager | Universe built with 5 symbols: ['NVDA', 'TSLA', 'AAPL', 'GOOGL', 'AMZN']
+2025-12-31 17:10:11 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:10:15 | INFO     | __main__ | Test iteration complete
+2025-12-31 17:15:56 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:15:56 | INFO     | state_manager | State loaded from file
+2025-12-31 17:15:56 | INFO     | __main__ | ============================================================
+2025-12-31 17:15:56 | INFO     | __main__ | RUNNING TEST ITERATION
+2025-12-31 17:15:56 | INFO     | __main__ | ============================================================
+2025-12-31 17:15:56 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:15:57 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:15:57 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:16:02 | INFO     | __main__ | Test iteration complete
+2025-12-31 17:17:52 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:17:52 | INFO     | state_manager | State loaded from file
+2025-12-31 17:17:52 | INFO     | __main__ | ============================================================
+2025-12-31 17:17:52 | INFO     | __main__ | RUNNING TEST ITERATION
+2025-12-31 17:17:52 | INFO     | __main__ | ============================================================
+2025-12-31 17:17:52 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:17:53 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:17:53 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:17:58 | INFO     | __main__ | Test iteration complete
+2025-12-31 17:18:39 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:18:39 | INFO     | state_manager | State loaded from file
+2025-12-31 17:19:36 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:19:36 | INFO     | __main__ | ============================================================
+2025-12-31 17:19:36 | INFO     | __main__ | RUNNING TEST ITERATION
+2025-12-31 17:19:36 | INFO     | __main__ | ============================================================
+2025-12-31 17:19:36 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:19:36 | INFO     | state_manager | State reset for new session
+2025-12-31 17:19:37 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:19:37 | INFO     | trading_engine | Updating trading universe...
+2025-12-31 17:19:37 | INFO     | data_manager | Building trading universe...
+2025-12-31 17:19:43 | INFO     | data_manager | Universe built with 5 symbols: ['NVDA', 'TSLA', 'AAPL', 'GOOGL', 'AMZN']
+2025-12-31 17:19:44 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:19:47 | INFO     | __main__ | Test iteration complete
+2025-12-31 17:21:34 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:21:34 | INFO     | __main__ | ============================================================
+2025-12-31 17:21:34 | INFO     | __main__ | RUNNING TEST ITERATION
+2025-12-31 17:21:34 | INFO     | __main__ | ============================================================
+2025-12-31 17:21:34 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:21:34 | INFO     | state_manager | State reset for new session
+2025-12-31 17:21:35 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:21:35 | INFO     | trading_engine | Updating trading universe...
+2025-12-31 17:21:35 | INFO     | data_manager | Building trading universe...
+2025-12-31 17:21:42 | INFO     | data_manager | Universe built with 5 symbols: ['NVDA', 'TSLA', 'AAPL', 'GOOGL', 'AMZN']
+2025-12-31 17:21:42 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:21:47 | INFO     | __main__ | Test iteration complete
+2025-12-31 17:21:52 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:21:52 | INFO     | state_manager | State loaded from file
+2025-12-31 17:21:52 | INFO     | __main__ | ============================================================
+2025-12-31 17:21:52 | INFO     | __main__ | RUNNING TEST ITERATION
+2025-12-31 17:21:52 | INFO     | __main__ | ============================================================
+2025-12-31 17:21:52 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:21:52 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:21:52 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:21:57 | INFO     | __main__ | Test iteration complete
+2025-12-31 17:26:39 | INFO     | __main__ | ============================================================
+2025-12-31 17:26:39 | INFO     | __main__ | 5-MINUTE EMA CROSSOVER BOT - STARTING
+2025-12-31 17:26:39 | INFO     | __main__ | ============================================================
+2025-12-31 17:26:39 | INFO     | __main__ | Paper Trading: https://paper-api.alpaca.markets
+2025-12-31 17:26:39 | INFO     | __main__ | Timezone: Europe/Dublin
+2025-12-31 17:26:39 | INFO     | __main__ | Market Hours: 14:30:00 - 21:00:00
+2025-12-31 17:26:39 | INFO     | __main__ | Entry Window: 14:35:00 - 20:30:00
+2025-12-31 17:26:39 | INFO     | __main__ | ============================================================
+2025-12-31 17:26:39 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:26:39 | INFO     | state_manager | State loaded from file
+2025-12-31 17:26:39 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:26:40 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:26:40 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:26:40 | INFO     | __main__ | Scheduler started - running every 5 minutes during market hours
+2025-12-31 17:26:40 | INFO     | __main__ | Press Ctrl+C to stop
+2025-12-31 17:49:19 | INFO     | __main__ | Received signal 2, initiating graceful shutdown...
+2025-12-31 17:49:19 | INFO     | trading_engine | Initiating graceful shutdown...
+2025-12-31 17:49:19 | INFO     | trading_engine | Shutdown complete
+2025-12-31 17:49:28 | WARNING  | email_notifier | Email notifications disabled - SMTP credentials not configured
+2025-12-31 17:49:28 | INFO     | state_manager | State loaded from file
+2025-12-31 17:49:28 | INFO     | __main__ | ============================================================
+2025-12-31 17:49:28 | INFO     | __main__ | RUNNING TEST ITERATION
+2025-12-31 17:49:28 | INFO     | __main__ | ============================================================
+2025-12-31 17:49:28 | INFO     | trading_engine | Initializing trading session...
+2025-12-31 17:49:29 | INFO     | trading_engine | Account equity: $97,116.69
+2025-12-31 17:49:29 | INFO     | trading_engine | Session initialized successfully
+2025-12-31 17:49:34 | INFO     | __main__ | Test iteration complete

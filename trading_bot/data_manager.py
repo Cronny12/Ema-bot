@@ -12,6 +12,7 @@ import logging
 from alpaca.data import StockHistoricalDataClient
 from alpaca.data.requests import StockBarsRequest, StockLatestBarRequest
 from alpaca.data.timeframe import TimeFrame, TimeFrameUnit
+from alpaca.data.enums import DataFeed  # Added for IEX feed
 from alpaca.trading.client import TradingClient
 from alpaca.trading.requests import GetAssetsRequest
 from alpaca.trading.enums import AssetClass, AssetStatus
@@ -73,7 +74,8 @@ class DataManager:
                 symbol_or_symbols=symbol,
                 timeframe=tf,
                 start=start,
-                end=end
+                end=end,
+                feed=DataFeed.IEX  # Use free IEX data feed
             )
             
             bars = self.data_client.get_stock_bars(request)
@@ -104,7 +106,10 @@ class DataManager:
     def get_latest_bar(self, symbol: str) -> Optional[Dict]:
         """Get the most recent bar for a symbol."""
         try:
-            request = StockLatestBarRequest(symbol_or_symbols=symbol)
+            request = StockLatestBarRequest(
+                symbol_or_symbols=symbol,
+                feed=DataFeed.IEX  # Use free IEX data feed
+            )
             bar = self.data_client.get_stock_latest_bar(request)
             
             if symbol not in bar:
