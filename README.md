@@ -1,6 +1,6 @@
 # 5-Minute EMA Crossover Trading Bot
 
-A sophisticated algorithmic trading bot implementing a 5-minute EMA crossover strategy with multiple filters, risk management, and comprehensive logging.
+A fully python algorithmic trading bot implementing a 5-minute EMA crossover strategy with multiple filters, risk management, and comprehensive logging.
 
 ## Features
 
